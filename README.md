@@ -112,8 +112,5 @@ Feel free to reach out for feedback, bugs, or feature requests:
 ## 🏁 Let’s keep playing and coding — one X and O at a time!
 
 ```
-
----
-
 Let me know if you want to **add screenshots**, **hosted links**, or **convert it to PDF/HTML for your portfolio**!
 ```
