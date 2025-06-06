@@ -16,7 +16,7 @@ Enjoy the classic Tic-Tac-Toe experience in two different flavors: a **Python Py
 ## ⚙️ Installation & Run
 
 ### 1️⃣ Pygame Version (Python)
-[https://github.com/karthikprogr/Crime-Rate-Predictor/blob/main/static/images/Screenshot%202025-06-05%20115011.png](https://github.com/karthikprogr/tic-tac-toe/blob/main/static/Screenshot%202025-06-06%20143514.png)
+![Banner](https://github.com/karthikprogr/tic-tac-toe/blob/main/static/Screenshot%202025-06-06%20143514.png)
 
 #### 📦 Requirements:
 - Python 3.x
@@ -38,7 +38,7 @@ python main.py
 ---
 
 ### 2️⃣ Web Version (HTML, CSS, JS)
-[https://github.com/karthikprogr/Crime-Rate-Predictor/blob/main/static/images/Screenshot%202025-06-05%20115011.png](https://github.com/karthikprogr/tic-tac-toe/blob/main/static/Screenshot%202025-06-06%20143625.png)
+![Banner](https://github.com/karthikprogr/tic-tac-toe/blob/main/static/Screenshot%202025-06-06%20143625.png)
 #### 🌍 Run in Browser:
 
 ```bash
